@@ -1,0 +1,21 @@
+{
+  "name": "webmaster",
+  "version": "1.0.0",
+  "description": "testing node.js package.json",
+  "main": "basic_application.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinash2fly/NodsJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinash2fly/NodsJS/issues"
+  },
+  "homepage": "https://github.com/avinash2fly/NodsJS#readme"
+}
